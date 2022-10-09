@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Click The Button</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <button onclick="increase()">Click Me</button>
+      <h4>You clicked The button <span id="counter">0</span> Times</h4>
+    </div>
+  </body>
+  <script>
+    let counter = document.querySelector('#counter');   //Targeting the right sapn id
+    let count = 0;                                     // initializing the new count variable
+    counter.innerHTML = count;                        // assigning the counter variable to count
+    function increase(){                             // a funtion name increase
+      count++;                                     // incrementing the count 
+    counter.innerHTML = count;                    // modifing the innerhtml 
+
+    } 
+     </script>
+</html>
