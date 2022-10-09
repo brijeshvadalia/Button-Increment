@@ -40,8 +40,9 @@
 >![BADGE](https://img.shields.io/badge/NETLIFY-NETLIFY-blue)
 
 
-<!-- # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-live-class-project-1.netlify.app/ "Project-1-Netlify") -->
+# HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
+># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-button-increment.netlify.app/ "Button Increment")
+
 >![Screenshot](./Screenshot/Screenshot-1.png)
 >![Screenshot](./Screenshot/Screenshot-2.png)
 
